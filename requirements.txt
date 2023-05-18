@@ -1,0 +1,5 @@
+argparse>=1.4.0
+colorama>=0.4.5
+requests>=2.21.0
+pyOpenSSL>=22.1.0
+icmplib>=3.0.3
